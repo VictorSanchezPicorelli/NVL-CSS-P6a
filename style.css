@@ -1,0 +1,43 @@
+.cabecera{
+	width: 1200px;
+	height: 40px;
+	background-color: red;
+	border-radius: 4px;
+}
+
+h1 {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+p {
+  color: #F6E3CE;
+  text-align: center;
+  padding: 7px;
+  font-family: Georgia;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: italic;
+
+}
+th{
+	text-align: center;
+	border: 2px solid #000000;
+	color: #424242;
+	font-style: italic;
+}
+table{
+    border: 1px solid #000000;
+    padding: 10px;
+    background-color:#E6E6E6 ;
+	}
+		
+td{
+    border: 2px solid blue;
+    text-align: center;
+	}
+
+img{
+	padding: 2px;
+	margin:2px;
+}
